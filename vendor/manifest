@@ -1,0 +1,17 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/gosuri/uilive",
+			"repository": "https://github.com/gosuri/uilive",
+			"revision": "25d1fbe4e2dfcacaa9ed5dc23f18a11de5a2cc87",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gosuri/uiprogress",
+			"repository": "https://github.com/gosuri/uiprogress",
+			"revision": "af2d2fa391b10cb26d4dd107206072d4b5afcbb5",
+			"branch": "master"
+		}
+	]
+}
